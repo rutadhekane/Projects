@@ -1,0 +1,17 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\MyScripts\LMC_ObjectAssembly.cs">
+    <Files>
+      <File FileName="Assets\Scripts\CaptureNormals.cs" Line="1" Column="1" />
+      <File FileName="Assets\MyScripts\LMC_Object.cs" Line="1" Column="1" />
+      <File FileName="Assets\MyScripts\DatabaseManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\MyScripts\MyMain.cs" Line="1" Column="1" />
+      <File FileName="Assets\MyScripts\LMC_ObjectAssembly.cs" Line="56" Column="1" />
+      <File FileName="Assets\MyScripts\DropdownSelect.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

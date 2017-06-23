@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<Placemark>
+<name>54.219.189.241 ps9.pubnub.com</name>
+<Point>
+<coordinates>-121.895000,37.339400</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>216.34.181.60 source-forge.net</name>
+<Point>
+<coordinates>-90.533400,38.650000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>17.151.28.5 ocsp.apple.com</name>
+<Point>
+<coordinates>-122.094600,37.304200</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>216.34.181.59 downloads.sourceforge.net</name>
+<Point>
+<coordinates>-90.533400,38.650000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>104.97.155.107 tile-service.weather.microsoft.com</name>
+<Point>
+<coordinates>-71.084300,42.362600</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>23.212.52.170 cdn.content.prod.cms.msn.com</name>
+<Point>
+<coordinates>-122.393300,37.769700</coordinates>
+</Point>
+</Placemark>
+</Document>
+</kml>
+

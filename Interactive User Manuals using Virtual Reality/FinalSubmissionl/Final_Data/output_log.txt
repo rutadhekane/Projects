@@ -1,0 +1,51 @@
+Initialize engine version: 5.5.2f1 (3829d7f588f3)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [igdumdim32.dll 20.19.15.4531]
+    Renderer: Intel(R) HD Graphics 5500
+    Vendor:   Intel
+    VRAM:     2111 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=1 INTZ=1 NULL=1 RESZ=1 SlowINTZ=0 ATOC=1 BC4=1 BC5=1
+Begin MonoManager ReloadAssembly
+Platform assembly: E:\Spring 17\CMPE 295B\Development\FinalSubmission\Final_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading E:\Spring 17\CMPE 295B\Development\FinalSubmission\Final_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: E:\Spring 17\CMPE 295B\Development\FinalSubmission\Final_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading E:\Spring 17\CMPE 295B\Development\FinalSubmission\Final_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: E:\Spring 17\CMPE 295B\Development\FinalSubmission\Final_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading E:\Spring 17\CMPE 295B\Development\FinalSubmission\Final_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: E:\Spring 17\CMPE 295B\Development\FinalSubmission\Final_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading E:\Spring 17\CMPE 295B\Development\FinalSubmission\Final_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: E:\Spring 17\CMPE 295B\Development\FinalSubmission\Final_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading E:\Spring 17\CMPE 295B\Development\FinalSubmission\Final_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: E:\Spring 17\CMPE 295B\Development\FinalSubmission\Final_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading E:\Spring 17\CMPE 295B\Development\FinalSubmission\Final_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+Platform assembly: E:\Spring 17\CMPE 295B\Development\FinalSubmission\Final_Data\Managed\JsonFx.Json.dll (this message is harmless)
+Loading E:\Spring 17\CMPE 295B\Development\FinalSubmission\Final_Data\Managed\JsonFx.Json.dll into Unity Child Domain
+Platform assembly: E:\Spring 17\CMPE 295B\Development\FinalSubmission\Final_Data\Managed\LeapCSharp.NET3.5.dll (this message is harmless)
+Loading E:\Spring 17\CMPE 295B\Development\FinalSubmission\Final_Data\Managed\LeapCSharp.NET3.5.dll into Unity Child Domain
+- Completed reload, in  0.737 seconds
+Platform assembly: E:\Spring 17\CMPE 295B\Development\FinalSubmission\Final_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: E:\Spring 17\CMPE 295B\Development\FinalSubmission\Final_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+WARNING: BC6H/BC7 texture format is not supported, decompressing texture
+UnloadTime: 491.967346 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 218c -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+WARNING: BC6H/BC7 texture format is not supported, decompressing texture
+UnloadTime: 3065.662842 ms
+No InteractionMaterial specified; will use the default InteractionMaterial as specified by the InteractionManager.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 206 unused Assets to reduce memory usage. Loaded Objects now: 2766.
+Total: 14.311887 ms (FindLiveObjects: 0.366499 ms CreateObjectMapping: 0.077405 ms MarkObjects: 11.780170 ms  DeleteObjects: 2.086954 ms)
+
+A group matching that name does not exisit in the modelPool
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
